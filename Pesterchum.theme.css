@@ -751,3 +751,8 @@ ul[aria-label="Direct Messages"] > li > div {
 .panel-2ZFCRb.activityPanel-9icbyU > .body-1FrnJD > .actions-zk2vB_ > .disabledButtonWrapper-2Oz3aY > button, .panel-2ZFCRb.activityPanel-9icbyU > .body-1FrnJD > .actions-zk2vB_ > button {
 	color: black !important;
 }
+
+/* server banner */
+.bannerImage-ubW8K-, .bannerImg-2PzH6z {
+	width: inherit !important;
+}

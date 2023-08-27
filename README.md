@@ -1,4 +1,4 @@
-hi!!! saltssaumure has created a cooler, fresher, updated fork of this (one with a lot cleaner css LOL)!! check it out [here](https://github.com/MiniDiscordThemes/Pesterchum)!! i'd recommend their version over this one!!!
+hi!!! [Saltssaumure](https://github.com/Saltssaumure) has created a cooler, fresher, updated fork of this (one with a lot cleaner css LOL)!! check it out [here](https://github.com/MiniDiscordThemes/Pesterchum)!! i'd recommend their version over this one!!!
 
 # Pestercord (4/13/2022 Edition) ✨
 
